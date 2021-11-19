@@ -1,7 +1,3 @@
-# Sunflower with a phyllotactic pattern
-# By Deborah R. Fowler
-# Modified from 
-# http://www.deborahrfowler.com/PythonResources/PythonTurtle.html
 
 import math
 import turtle
